@@ -1,0 +1,11 @@
+fastapi[standard]
+pydantic
+langchain
+langchain-openai
+openai
+wikipedia
+python-dotenv
+requests
+langchain-community
+duckduckgo-search
+aiosmtplib
